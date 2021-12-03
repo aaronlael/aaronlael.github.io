@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Advent of Code 2021"
-permalink: /
 theme: slate
 ---
 
