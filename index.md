@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Advent of Code 2021"
-theme: jekyll-theme-slate
 ---
 
 # Advent of Code 2021:  An adventure in Python...then Go
