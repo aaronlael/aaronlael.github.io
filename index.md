@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Advent of Code 2021"
 ---
 
