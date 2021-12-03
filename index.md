@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Advent of Code 2021"
-permalink: /home/
+permalink: /
+theme: slate
 ---
 
 # Advent of Code 2021:  An adventure in Python...then Go
