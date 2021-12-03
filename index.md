@@ -4,7 +4,7 @@ title: "Advent of Code 2021"
 ---
 
 # Advent of Code 2021:  An adventure in Python...then Go
-![one art please](/assets/img/python_vs_go.png)
+![one art please](/docs/assets/img/python_vs_go.png)
 
 ## Goal for the year
 
