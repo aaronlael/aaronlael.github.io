@@ -41,6 +41,8 @@ categories: AdventOfCode AoC 2021
 ![a giant whale taking in hex values and filtering out binary through its baleen](/docs/assets/img/filterfeeder.png)
 ### --- Day 17: Trick Shot ---
 ![an octopus playing pool, lining up a shot on a crab](/docs/assets/img/trickshot.png)
+### --- Day 18: Snailfish ---
+![a snailfish attempting to solve a snailfish math problem on a chalkboard, but not really getting it.](/docs/assets/img/snailfishmath.png)
 
 
 [Table of Contents](AoC_2021.md)
