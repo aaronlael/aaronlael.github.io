@@ -44,7 +44,7 @@ categories: AdventOfCode AoC 2021
 ### --- Day 18: Snailfish ---
 ![a snailfish attempting to solve a snailfish math problem on a chalkboard, but not really getting it.](/docs/assets/img/snailfishmath.png)
 ### --- Day 19: Beacon Scanner ---
-Pending puzzle completion.
+![A confused beacon is next to a "you are here" sign in an ocean trench.](/docs/assets/img/lost.png)
 ### --- Day 20: Trench Map ---
 ![A map unfurled on a table with a dagger in it.  The map extends off the right side of the table, continuing on infinitely off screen](/docs/assets/img/infinitemap.png)
 ### --- Day 21: Dirac Dice ---
