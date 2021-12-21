@@ -47,5 +47,7 @@ categories: AdventOfCode AoC 2021
 Pending puzzle completion.
 ### --- Day 20: Trench Map ---
 ![A map unfurled on a table with a dagger in it.  The map extends off the right side of the table, continuing on infinitely off screen](/docs/assets/img/infinitemap.png)
+### --- Day 21: Dirac Dice ---
+![An octopus rolls 3 dice next to a graffitied brick wall.  The wall has lanternfish and polymer themed graffiti.](/docs/assets/img/rollthebones.png)
 
 [Table of Contents](AoC_2021.md)
