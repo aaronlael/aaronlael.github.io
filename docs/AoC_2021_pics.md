@@ -49,5 +49,8 @@ categories: AdventOfCode AoC 2021
 ![A map unfurled on a table with a dagger in it.  The map extends off the right side of the table, continuing on infinitely off screen](/docs/assets/img/infinitemap.png)
 ### --- Day 21: Dirac Dice ---
 ![An octopus rolls 3 dice next to a graffitied brick wall.  The wall has lanternfish and polymer themed graffiti.](/docs/assets/img/rollthebones.png)
+### --- Day 22: Reactor Reboot ---
+
+This is as far as I dare venture this year for my own sanity and happiness!  See you in 2022!
 
 [Table of Contents](AoC_2021.md)
